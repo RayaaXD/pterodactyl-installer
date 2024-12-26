@@ -32,5 +32,5 @@ bash <(curl -s https://raw.githubusercontent.com/RayaaXD/pterodactyl-installer/m
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 ## Credits 
-- Recode By [ Skyzoe ](https://github.com/RayaaXD)
+- Recode By [ RayaXD ](https://github.com/RayaaXD)
 - Created by [ FOXSTORE ](https://github.com/Foxstoree)
